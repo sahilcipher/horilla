@@ -10,7 +10,7 @@ charset-normalizer
 click
 cryptography
 cssselect2
-Django==4.2.11
+Django==5.0.14
 django-auditlog
 django-apscheduler
 django-cors-headers
