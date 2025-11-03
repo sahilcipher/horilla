@@ -76,3 +76,4 @@ gunicorn
 psycopg2-binary
 whitenoise
 django-storages
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
